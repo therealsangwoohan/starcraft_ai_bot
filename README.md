@@ -10,7 +10,7 @@ In the early stage, the bot just creates many workers, but as the game progresse
 
 ## How the code runs
 
-![69256616_2362991880420782_1574906005693661184_n (2)](https://user-images.githubusercontent.com/46112193/132957940-1be220e0-f39a-42b5-8c73-b9eb4133e971.png)
+![](https://user-images.githubusercontent.com/46112193/134777935-5d8a691a-e5d9-48f4-b4d6-6ff7ff138b40.png)
 
 The Starcraft API allows the game to run visually in real-time for testing purposes, but it must be running off-screen and faster for training.
 
