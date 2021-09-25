@@ -18,4 +18,4 @@ The Starcraft API allows the game to run visually in real-time for testing purpo
 
 <img width="1027" alt="stage2-model-train (2)" src="https://user-images.githubusercontent.com/46112193/132957885-eb159c77-d44a-425f-abdd-3d37169b2bf3.png">
 
-Multiple versions of the model were trained on the cloud (Paperspace) for weeks. Even after three days, the best model could only win 40% of games in "Hard" difficulty.
+Multiple versions of the model were trained on the cloud (Paperspace) for weeks. Even after three days, the best model could only win 40% of games in "Hard" difficulty. The best model can now win 95% of games in "Hard difficulty".
